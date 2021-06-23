@@ -1,2 +1,2 @@
-rootProject.name = 'androidlab'
-
+rootProject.name = "Quiz"
+include ':app'
